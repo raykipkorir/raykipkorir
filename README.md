@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to Ray's world 😄
+### Hi there 👋
 
 📍 I'm a web developer based in Nairobi, Kenya. <br> 
-📚 My Stack - Django, Flask, React, PostgreSQL and Docker
+🔗 Lets link up [Twitter](https://twitter.com/raykipkorir02)
