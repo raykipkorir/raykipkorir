@@ -2,6 +2,8 @@
 
 🧑🏾‍💻 I love building projects using Python/Django/Flask/React
 
+🧑🏾‍💻 Open-minded and ready to learn
+
 🔗 Lets link up [Twitter](https://twitter.com/raykipkorir02)
 
 #### Find me on these Social platforms
