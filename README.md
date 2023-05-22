@@ -1,6 +1,6 @@
 ### Hi I am Raymond👋
 
-🧑🏾‍💻 I love building projects using Python/Django/TS
+🧑🏾‍💻 I love building projects using Python/Django/Flask/React
 
 🔗 Lets link up [Twitter](https://twitter.com/raykipkorir02)
 
